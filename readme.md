@@ -7,8 +7,8 @@ Going through [this repository](https://github.com/spring1843/go-dsa/) to learn 
 - [x] Reverse Array In-place
 - [x] Add Two Numbers
 - [x] Find Duplicate in Array
-- [ ] Zero Sum Triplets
-- [ ] Product of All Other Elements
+- [x] Zero Sum Triplets
+- [x] Product of All Other Elements
 - [ ] Equal Sum Sub-arrays
 - [ ] Rotate K Times
 - [ ] Bubble Sort

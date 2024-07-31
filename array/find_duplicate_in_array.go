@@ -1,5 +1,3 @@
-package array
-
 // Given a list of integers (1,2,...,n), find a duplicate number in O(n) time.
 
 // O(n) time
@@ -9,6 +7,8 @@ package array
 // check if num exists, if it does, we have found the duplicate
 // if not, add it to hashmap
 // if duplicate is not detected, return -1
+
+package array
 
 func FindDuplicate(list []int) int {
 	hashmap := make(map[int]bool)

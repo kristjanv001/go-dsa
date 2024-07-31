@@ -1,9 +1,11 @@
+// Given an array of numbers like {1, 2, -4, 6, 3} returns unique triplets from the numbers
+// with sum that equals zero like {-4, 1, 3}.
+//
+// Leetcode 15
+
 package array
 
 import "sort"
-
-// Given an array of numbers like {1, 2, -4, 6, 3} returns unique triplets from the numbers
-// with sum that equals zero like {-4, 1, 3}.
 
 func ZeroSumTriplets(list []int) [][]int {
 	result := [][]int{}
